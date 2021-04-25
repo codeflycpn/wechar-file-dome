@@ -5,5 +5,6 @@
   <button  bindtap="download">点击上传文件</button>
   <button bindtap="getFileList">点击获取缓存问价列表</button>
   <button bindtap="clearFile">清除临时缓存</button>
+  <button bindtap="getSaveListInfo">获取本地文件信息</button>
 
 </view>
