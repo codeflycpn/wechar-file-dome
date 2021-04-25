@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<view class="container">
+<text>文件处理页面</text>
+  <button  bindtap="upload">点击下载文件</button>
+  <button  bindtap="download">点击上传文件</button>
+  <button bindtap="getFileList">点击获取缓存问价列表</button>
+  <button bindtap="clearFile">清除临时缓存</button>
+
+</view>
